@@ -7,3 +7,4 @@ const kBoneColor = Color(0xFFD9D2B6);
 const kHoneydewColor = Color(0xFFD0E1D4);
 const kLimeColor = Color(0xFFF2F6D0);
 const kMauveColor = Color(0xffc4a69d);
+const kIcyColor = Color(0xffCCDFE7);

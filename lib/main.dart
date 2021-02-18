@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'The Void',
       theme: ThemeData.dark().copyWith(
-        primaryColor: kLimeColor,
+        primaryColor: kMauveColor,
         scaffoldBackgroundColor: kDarkColor,
       ),
       home: HomePage(),
